@@ -81,8 +81,10 @@ Librerías: pandas, numpy, scikit-learn, matplotlib, seaborn, joblib
 Entorno: Jupyter Notebooks, VS Code
 Control de versiones: Git y GitHub
 ________________________________________
-Enlaces útiles:
-Documentación oficial de Git https://git-scm.com/doc
-GitHub Docs https://docs.github.com/es
-Documentación de Scikit-learn https://scikit-learn.org/stable/
-Guía básica de Markdown https://www.markdownguide.org/basic-syntax/
+**Enlaces útiles:**
+- [Documentación oficial de Git](https://git-scm.com/doc)
+- [GitHub Docs](https://docs.github.com/es)
+- [Documentación de Scikit-learn](https://scikit-learn.org/stable/)
+- [Guía básica de Markdown](https://www.markdownguide.org/basic-syntax/)
+
+# **Fabián Garita**
